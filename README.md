@@ -37,7 +37,7 @@ for example:
 $ ./so_long ./map/map.ber
 ```
 
-# CHANGE YOUR CHARACTOR AND FIELDS
+# CHANGE YOUR CHARACTER AND FIELDS
 
 You can also change the player and enemies image, and map textures.
 Try:
