@@ -30,7 +30,7 @@ https://downloads.khinsider.com/game-soundtracks/album/dragon-quest-game-music-s
 $ make
 ```
 
-There are several maps in `./map` folder. Try one of them.
+There are several maps in `./map` folder. Try one of them. \n
 for example:
 
 ```shell
@@ -39,7 +39,7 @@ $ ./so_long ./map/map.ber
 
 # CHANGE YOUR CHARACTER AND FIELDS
 
-You can also change the player and enemies image, and map textures.
+You can also change the player and enemies image, and map textures. \n
 Try:
 
 ```shell
