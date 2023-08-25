@@ -48,6 +48,6 @@ $ make switch_charactor
 
 # ASSETS
 
-I used textures from the website below
+> I used textures from the website below
 https://stock.adobe.com/jp/images/rpg/480950138
 https://stock.adobe.com/jp/images/rpg/493247944
