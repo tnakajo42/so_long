@@ -11,6 +11,12 @@ MLX42 is a performant, easy to use, cross-platform, minimal windowing graphics l
 $ make download_mlx42
 ```
 
+if you do not have cmake in your laptop, try:
+
+```shell
+$ brew install cmake
+```
+
 # DOWNLOAD MUSIC
 
 Berore play, please download miniaudio to add music.
@@ -28,6 +34,12 @@ https://downloads.khinsider.com/game-soundtracks/album/dragon-quest-game-music-s
 
 ```shell
 $ make
+```
+
+if you fail to make, try:
+
+```shell
+$ brew install glfw
 ```
 
 There are several maps in `./map` folder. Try one of them. \n
