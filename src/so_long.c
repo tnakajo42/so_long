@@ -29,7 +29,7 @@ int	main(int ac, char **av)
 
 	check_argument(ac, av, &game);
 	game.fd = open(av[1], O_RDONLY);
-	if (game.fd < 0 || game.fd == 0 || result != MA_SUCCESS)
+	if (game.fd < 0 || game.fd == 0)
 		ft_error_general("Failed to open file\n");
 	init_value(&game);
 	init_map(av, &game);
