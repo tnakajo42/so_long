@@ -2,6 +2,8 @@
 ___
 > 42 first game project
 
+<img src="https://tsfcm.jp/wp-content/uploads/2023/09/42-so_long-1024x553.png" alt="42 so_long" title="so_long">
+
 # DOWNLOAD MLX42
 
 first, you need to install [MLX42](https://github.com/codam-coding-college/MLX42) library.
