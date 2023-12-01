@@ -2,7 +2,7 @@
 ___
 > 42 first game project
 
-<img src="https://tsfcm.jp/wp-content/uploads/2023/09/42-so_long-1024x553.png" alt="42 so_long" title="so_long">
+[!['so_long'](https://tsfcm.jp/wp-content/uploads/2023/09/42-so_long-1024x553.png)](https://youtu.be/zaKGzGfHjAQ)
 
 # DOWNLOAD MLX42
 
