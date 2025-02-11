@@ -1,5 +1,9 @@
 #### so_long
+
+[![image (7)](https://github.com/user-attachments/assets/14e04941-df34-443f-964c-e97891aa646f)](https://youtu.be/zaKGzGfHjAQ)
+
 ___
+
 > 42 first game project
 
 [!['so_long'](https://tsfcm.jp/wp-content/uploads/2023/09/42-so_long-1024x553.png)](https://youtu.be/zaKGzGfHjAQ)
